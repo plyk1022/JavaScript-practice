@@ -1,0 +1,5 @@
+タイトル：確かな力が身につくJavaScript「超」入門　第2版
+
+実習用テンプレート
+practice/templete/index.html
+common/style.css
